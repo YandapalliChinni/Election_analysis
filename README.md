@@ -7,7 +7,7 @@ The scripts included:
 
 **Scraper Script**: election_scraper.py - Scrapes data from ECI Results Portal.
 
-**Analysis Script**: election_analysis.py - Analyzes the scraped data to derive insights.
+**Analysis Script**: task.py - Analyzes the scraped data to derive insights.
 
 **README**: This file provides an overview of the project and insights derived.
 
@@ -55,7 +55,7 @@ python election_scraper.py
 Run the analysis script to derive insights:
 
 ``` bash
-python election_analysis.py
+python task.py
 ```
 
 ## **Data Source**
