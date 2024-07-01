@@ -5,7 +5,7 @@ This repository contains Python scripts for scraping Lok Sabha election data fro
 
 The scripts included:
 
-**Scraper Script**: election_scraper.py - Scrapes data from ECI Results Portal.
+**Scraper Script**: election_analysis_task.ipynb - Scrapes data from ECI Results Portal.
 
 **Analysis Script**: task.py - Analyzes the scraped data to derive insights.
 
@@ -49,7 +49,7 @@ pip install requests beautifulsoup4 pandas
 Run the scraper script to fetch latest election data:
 
 ``` bash
-python election_scraper.py
+python election_analysis_task.ipynb
 ```
 
 Run the analysis script to derive insights:
